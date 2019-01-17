@@ -8,6 +8,8 @@ The underlying view [dbo].[appdev_dtd_metric] provides several metrics calculate
  + DTD = EPM Check-in to EHR "Ready for Checkout" or "needs follow up appt scheduled" status
  + DTP = EPM Check-in to EHR "Ready for Provider"
 
+![NextGen Template](https://github.com/kevinfosterNG/ugm/blob/master/2017/dtd_preview.png)
+
 ### Installation
 
 #### Template(s)
